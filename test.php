@@ -18,3 +18,5 @@ $data .= '</form></a></td><td>';
 $data .= '<a href="javascript:void(0)" onclick="removeArtwork(''. $single_art_work['id']; .'',''. $single_art_work['store_product_id']; .'',1)">';
 $data .= '<img src="'. get_template_directory_uri(); .'/assets/icon/274c.png"> </a></td></tr>';
 echo 'abc';
+echo 'abc';
+echo 'abc';
