@@ -18,9 +18,16 @@ $data .= '</form></a></td><td>';
 $data .= '<a href="javascript:void(0)" onclick="removeArtwork(''. $single_art_work['id']; .'',''. $single_art_work['store_product_id']; .'',1)">';
 $data .= '<img src="'. get_template_directory_uri(); .'/assets/icon/274c.png"> </a></td></tr>';
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo 'abc';
 echo 'abc';
 echo 'abc';
 =======
 echo 'test';
 >>>>>>> 7f21e4d348fd6dd55b9b295227dd4af3c8ce5694
+=======
+echo 'abc';
+echo 'abc';
+echo 'abc';
+echo 'test';
+>>>>>>> 28f5eb985f5c9bf38f550ae308e7d00ce3a2e677
